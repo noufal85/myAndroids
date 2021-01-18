@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHubRepoSearch</string>
+    <!--COMPLETED (1) Add a string resource called search with the title "Search"-->
+    <string name="search">Search</string>
+    <string name="error_message">
+        Failed to get results. Please try again.
+    </string>
+
+
+</resources>

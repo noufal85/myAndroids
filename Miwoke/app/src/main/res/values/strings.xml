@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miwoke</string>
+    <string name="numbers_activity">Numbers Activity</string>
+    <string name="numbers">Numbers</string>
+    <string name="family">Family</string>
+    <string name="phrases">Phrases</string>
+    <string name="colors">Colors</string>
+</resources>
